@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title description">
+  <title id="title">Quill</title>
+  <desc id="description">
+    World of Warcraft addon. Write it down. Bring it along.
+    Markdown notes, nested notebooks, wiki links, tags, favorites, trash and small in-game windows.
+  </desc>
+  <defs>
+    <linearGradient id="paper" x2="1" y2="1">
+      <stop stop-color="#1d1a2d"/>
+      <stop offset="1" stop-color="#2f233b"/>
+    </linearGradient>
+    <pattern id="ruling" width="40" height="32" patternUnits="userSpaceOnUse">
+      <path d="M0 31.5h40" stroke="#c4afe3" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="640" fill="url(#paper)"/>
+  <rect x="20.5" y="20.5" width="1239" height="599" rx="14" fill="none" stroke="#c4afe3" stroke-opacity=".16"/>
+  <path d="M813 21v598" stroke="#c4afe3" stroke-opacity=".15"/>
+  <rect x="814" y="21" width="445" height="598" fill="url(#ruling)"/>
+  <circle cx="1040" cy="318" r="190" fill="#3a2e4b"/>
+  <circle cx="1040" cy="318" r="162" fill="none" stroke="#b5a2e0" stroke-opacity=".3" stroke-dasharray="3 9"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="96" y="178" fill="#c5b3d7" font-size="17" font-weight="600" letter-spacing="4">WORLD OF WARCRAFT ADDON</text>
+    <text x="88" y="330" fill="#f6efe7" font-family="Georgia, 'Times New Roman', serif" font-size="164" letter-spacing="-6">Quill<tspan fill="#dfa879">.</tspan></text>
+    <text x="96" y="410" fill="#f6efe7" font-size="40" font-weight="500">Write it down. Bring it along.</text>
+    <path d="M97 476h40" stroke="#dfa879" stroke-width="2"/>
+    <text x="153" y="482" fill="#c5b3d7" font-size="15" font-weight="600" letter-spacing="2.4">MARKDOWN · NOTEBOOKS · WIKI LINKS · SMALL WINDOWS</text>
+  </g>
+  <g transform="translate(1040 318) scale(1.22) translate(-147 -185)">
+    <g transform="rotate(7 160 170)">
+      <rect x="49" y="76" width="197" height="238" rx="13" fill="#191622"/>
+      <rect x="40" y="66" width="197" height="238" rx="13" fill="#332b49" stroke="#b5a2e0" stroke-width="3"/>
+      <path d="M72 68v234" stroke="#b5a2e0" stroke-width="3"/>
+      <path d="M97 242h108M97 261h108M97 280h71" stroke="#8d7aa8" stroke-width="3" stroke-linecap="round"/>
+      <path d="M237 102h18v43h-18M237 158h13v32h-13" fill="#a18abb"/>
+      <g transform="translate(100 252) rotate(35)">
+        <path d="M0 -46Q-22 -70 -29 -112L-14 -100L-31 -124Q-37 -160 -30 -184L-17 -174L-27 -196Q-18 -232 2 -258Q19 -236 23 -202L11 -188L25 -186Q27 -152 20 -130L9 -116L18 -120Q13 -80 0 -46Z" fill="#dfa879"/>
+        <path d="M0 -64L-15 -84M0 -138L-25 -160M1 -206L-19 -230M1 -98L15 -116M2 -160L20 -178M2 -222L13 -240" fill="none" stroke="#a46c3e" stroke-width="2" stroke-opacity=".45" stroke-linecap="round"/>
+        <path d="M-3.5 -46L3.5 -46L1.3 4L0 14L-1.3 4Z" fill="#a46c3e"/>
+        <path d="M0 -46Q2 -150 2 -250" fill="none" stroke="#fbe9d4" stroke-width="2.5" stroke-linecap="round"/>
+      </g>
+    </g>
+  </g>
+  <path d="m1188 470 5 13 13 5-13 5-5 13-5-13-13-5 13-5Z" fill="#dfa879"/>
+  <circle cx="890" cy="150" r="5" fill="#dfa879"/>
+</svg>

@@ -1,0 +1,27 @@
+## Interface: 120100, 120105, 16001
+## Title: Quill
+## Notes: A notebook with a Markdown editor and a formatted read mode.
+## Notes-deDE: Ein Notizbuch mit Markdown-Editor und formatiertem Lesemodus.
+## Version: 1.0.0
+## Author: SiquiL
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+## AddonCompartmentFunc: Quill_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: Quill_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: Quill_OnAddonCompartmentLeave
+## SavedVariables: QuillDB
+## X-Website: https://github.com/SiquiL/wow-quill
+
+locales\enUS.lua
+locales\deDE.lua
+Markdown.lua
+Metadata.lua
+TextLayout.lua
+Core.lua
+Wiki.lua
+Appearance.lua
+NotebookUI.lua
+UI.lua
+Popout.lua
+Trash.lua
+Settings.lua
+Settings.xml

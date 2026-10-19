@@ -1,0 +1,12 @@
+# Not loaded by the game, so left out of git archive and GitHub's source downloads
+/.gitattributes export-ignore
+/.github export-ignore
+/.gitignore export-ignore
+/.luacheckrc export-ignore
+/.vscode export-ignore
+/CHANGELOG.md export-ignore
+/README.md export-ignore
+/ROADMAP.md export-ignore
+/assets export-ignore
+/tests export-ignore
+/*.zip export-ignore
