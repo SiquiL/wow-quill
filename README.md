@@ -20,9 +20,11 @@ Write a boss strategy, keep a character journal or collect your next set of goal
 Markdown to turn plain text into readable notes, organize them in notebooks and bring
 the important ones along in small windows beside the action.
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/screenshots/showcase.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/screenshots/showcase-light.jpg">
   <img alt="In-game screenshots of Quill: the notebook window in read mode, the trash dialog and a locked small note window" src="assets/screenshots/showcase.jpg" width="100%">
-</p>
+</picture>
 
 ## Features
 
