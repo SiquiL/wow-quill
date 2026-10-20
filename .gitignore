@@ -1,5 +1,6 @@
 # Release packages built with git archive
 /Quill-*.zip
+/ROADMAP.md
 
 # luacheck --cache
 .luacheckcache

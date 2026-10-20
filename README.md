@@ -422,6 +422,6 @@ git archive --format zip --prefix Quill/ --output Quill-1.0.0.zip v1.0.0
 Create the GitHub release from that tag, use the CHANGELOG section as its description and
 attach `Quill-1.0.0.zip`.
 
-`.gitattributes` marks everything the game does not load (README, CHANGELOG, ROADMAP, artwork,
+`.gitattributes` marks everything the game does not load (README, CHANGELOG, artwork,
 tests and the tool configuration) as `export-ignore`. Runtime files such as `fonts` and `textures` remain
 in both this zip and the _Source code_ archives that GitHub generates.
