@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-806494)](CHANGELOG.md)
+[![Latest release](https://img.shields.io/github/v/release/SiquiL/wow-quill?sort=semver&color=806494)](https://github.com/SiquiL/wow-quill/releases/latest)
 [![World of Warcraft](https://img.shields.io/badge/World%20of%20Warcraft-12.1.0%20%7C%2012.1.5%20%7C%201.60.1-148EFF?logo=battledotnet&logoColor=white)](#supported-clients)
 [![Lua 5.1](https://img.shields.io/badge/Lua-5.1-2C2D72?logo=lua&logoColor=white)](https://www.lua.org/manual/5.1/)
 [![English and German](https://img.shields.io/badge/locales-English%20%7C%20Deutsch-59636e)](#translations)
